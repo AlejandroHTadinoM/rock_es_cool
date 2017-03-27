@@ -72,25 +72,9 @@
     border-radius: 3px;
 }
 .clicform .reset {
-    background-color: #FAFAFA;
-    color: #F44336;
-    border: solid 1px #F44336 !important;
-    transition: all .3s ease-in-out;
+    background-color: #f6c504;
 }
-
-.clicform .reset:hover {
-	background-color: #F44336;
-	color: #FAFAFA;
-}
-
 .clicform .enviar {
-    background-color: #FAFAFA;
-    color: #2196F3;
-    border: solid 1px #2196F3;
-    transition: all .3s ease-in-out;
-}
-
-.clicform .enviar:hover {
-	background-color: #2196F3;
-	color: #FAFAFA;
+    background-color: #1cc392;
+    color: #fff;
 }
